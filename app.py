@@ -191,7 +191,7 @@ st.markdown("""
 st.markdown("""
 <div class="main-header">
     <h1>📘 TRỢ LÝ SOẠN GIÁO ÁN TỰ ĐỘNG (NLS)</h1>
-    <p>Tác giả: Vì Thị Thúy Nga - Trường Tiểu học Minh Quang - ĐT: 093 3499 000</p>
+    <p>Tác giả: Vì Thị Thúy Nga - Trường Tiểu học Minh Quang - ĐT: 096 3499 000</p>
 </div>
 """, unsafe_allow_html=True)
 
